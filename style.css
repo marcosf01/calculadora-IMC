@@ -68,7 +68,7 @@ input#botao {
 }
 
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 600px) {
     #container {
         width: 300px;
         padding: 30px;
